@@ -62,7 +62,7 @@ Before you begin, ensure you have met the following requirements:
 
 
 ### ER DIGRAM
-![SAFAR DIAGRAM](https://github.com/amanastel/fearful-doll-6867/assets/115461689/59fbdd3b-f22e-41c7-87c2-faf1d330cf34)
+![SAFAR DIAGRAM](https://github-production-user-asset-6210df.s3.amazonaws.com/115461689/246751689-59fbdd3b-f22e-41c7-87c2-faf1d330cf34.png)
 
 ## Getting Started
 
