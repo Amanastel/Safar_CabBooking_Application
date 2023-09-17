@@ -24,7 +24,7 @@
 - Lombok
 - Swagger
 
- *Gihub Link-> https://github.com/akt0001c/fearful-doll-6867.git*
+ *Gihub Link-> https://github.com/amanastel/Safar_CabBooking_Application.git*
   
   *Netlify Link-> https://6498687fdd20971f58da64a1--statuesque-jalebi-8543ee.netlify.app/*
 
@@ -62,7 +62,7 @@ Before you begin, ensure you have met the following requirements:
 
 
 ### ER DIGRAM
-![SAFAR DIAGRAM](https://github.com/akt0001c/fearful-doll-6867/assets/115461689/59fbdd3b-f22e-41c7-87c2-faf1d330cf34)
+![SAFAR DIAGRAM](https://github.com/amanastel/fearful-doll-6867/assets/115461689/59fbdd3b-f22e-41c7-87c2-faf1d330cf34)
 
 ## Getting Started
 
